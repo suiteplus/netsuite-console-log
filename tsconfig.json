@@ -5,6 +5,6 @@
         "noImplicitUseStrict": true
     } ,
     "files": [
-        "src/ns-console-log.ts"
+        "src/netsuite-console-log.ts"
     ]
 }
