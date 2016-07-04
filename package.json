@@ -1,0 +1,19 @@
+{
+  "name": "netsuite-console-log",
+  "version": "1.0.0",
+  "description": "Netsuite console log",
+  "main": "intermediate/netsuite-console-log.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wkrueger/netsuite-console-log.git"
+  },
+  "author": "Willian Krueger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wkrueger/netsuite-console-log/issues"
+  },
+  "homepage": "https://github.com/wkrueger/netsuite-console-log#readme"
+}

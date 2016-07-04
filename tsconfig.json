@@ -1,0 +1,10 @@
+{
+    "compilerOptions" : {
+        "outDir": "intermediate" ,
+        "target": "es5" ,
+        "noImplicitUseStrict": true
+    } ,
+    "files": [
+        "src/ns-console-log.ts"
+    ]
+}
