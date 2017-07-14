@@ -1,3 +1,5 @@
+NOTE: Abandoned. The idea here was to split netsuite helpers into modules.
+
 # netsuite-console-log
 
 ### Usage
